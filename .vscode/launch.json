@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "chrome",
-            "request": "request",
+            "type": "node",
+            "request": "launch",
             "name": "Launch Chrome against localhost",
-            "file": "C:/Users/kim96/Desktop/program/javascript/ob_test2_test.html"
+            "program": "C:/Users/kim96/Desktop/program/javascript/fuc_10.html"
         }
     ]
 }
